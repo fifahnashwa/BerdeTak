@@ -1,2 +1,2 @@
 # TA-IoT
-TA Iot HeartRate and SpO2 Monitoring App
+BerdeTak Monitor merupakan aplikasi mobile untuk menghitung detak jantung dan kadar SpO2. Dirancang untuk perhitungan satu menit dengan history yang accessible dan mudah untuk dikirim.
